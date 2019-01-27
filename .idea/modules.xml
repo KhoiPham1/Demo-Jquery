@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/demojquery.iml" filepath="$PROJECT_DIR$/demojquery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/demojquery.iml" filepath="$PROJECT_DIR$/.idea/demojquery.iml" />
     </modules>
   </component>
 </project>
